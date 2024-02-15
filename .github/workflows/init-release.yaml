@@ -1,3 +1,4 @@
+---
 name: Init Release
 on:
   workflow_dispatch:
